@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Ministerio de Defensa</title>
+        <description>El nano es una bala, azul que es un cañon, dispara en un circuito directo al corazon</description>
+        <link></link>
+        <pubDate>Fri, 24 Nov 2023 09:45:02 CEST</pubDate>
+        <managingEditor>a23anxobo@iessanclemente.net</managingEditor>
+        <item>
+            <title>Test page</title>
+            <link></link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Some text.</description>
+        </item>
+    </channel>
+</rss>
